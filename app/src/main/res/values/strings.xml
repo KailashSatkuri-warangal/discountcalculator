@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Discount Calculator</string>
+    <string name="calculate_tip">Calculate Percentage</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="how_was_the_service">Percentage Amount</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="tip_amount">Discount Amount: %s</string>
+    <string name="actual_amount">Actual Amount: %s</string>
+    <string name="final_price">Final Price: %s</string>
+</resources>
